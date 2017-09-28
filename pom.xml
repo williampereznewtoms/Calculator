@@ -3,7 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.newtoms</groupId>
-	<artifactId>calculator</artifactId>
+	<artifactId>calculatorwill</artifactId>
     <version>1.0.0</version>
     <packaging>mule</packaging>
 	<name>Mule calculator Application</name>
