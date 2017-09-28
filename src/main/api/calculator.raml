@@ -1,0 +1,19 @@
+#%RAML 1.0
+version: v1
+baseUri: https://mocksvc.mulesoft.com/mocks/ed31b573-a4e0-469e-8e27-274aa0749405 # 
+title: Calculator
+
+
+/add:
+  get:
+    queryParameters: 
+     num1: 
+     num2: 
+    responses: 
+      200:
+        body:
+          application/json:
+            example: |
+              {
+                "result" : 4
+              }
